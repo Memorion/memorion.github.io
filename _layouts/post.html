@@ -6,4 +6,8 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
+  
+  <i>Found a mistake? You can fix it yourself <a href="https://github.com/Memorion/memorion.github.io/blob/master/_posts/{{ page.url | slugify }}.md">here</a> or tell me <a href="https://twitter.com/memorion">here</a><i/>
+  </br>
+
 </div>
