@@ -10,6 +10,6 @@ Trying to circumvent the issue turned up another one, which is being tracked [he
 
 And after one tiny adjustment, refactoring the `--init` case into its own file it actually got [merged](https://github.com/apple/swift-package-manager/commit/9deed030f0ece93abf9587392c8cdf3bc15fc786)! It feels pretty cool to have written a tiny bit of code that ships with the swift-package-manager in the future. Although I wish git would provide a way to mark a commit for being worked on by multiple people because I'd rather share the credit with Tobias.
 
-If you want to read about what we actually contributed you can read about from @iachievedit who was the one asking for the feature [here](http://dev.iachieved.it/iachievedit/creating-new-packages-with-swiftpm/).
+If you want to read about what we actually contributed you can read about from [@iachievedit](https://twitter.com/iachievedit) who was the one asking for the feature [here](http://dev.iachieved.it/iachievedit/creating-new-packages-with-swiftpm/).
 
 All in all I'm quite excited for Swift as a general purpose language and I can't wait for Version 3.0!
