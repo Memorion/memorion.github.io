@@ -1,16 +1,15 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+
+gems: [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Bastian Rinsche
 description:      'Newbie Android dev, </br> interesting &#38; fun stuff goes here.'
-url:              https://memorion.github.io
-baseurl:          /
+url:              http://blog.bastianrinsche.de
 
 author:
   name:           'Bastian Rinsche'
